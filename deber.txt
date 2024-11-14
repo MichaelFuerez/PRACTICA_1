@@ -6,3 +6,5 @@ Reutilización de código y mejora la organización
 extends
 4)¿Cómo se implementa en Java?
 Usando modificadores como private y métodos getter y setter
+5)¿Problemas sin encapsulamiento?
+
