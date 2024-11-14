@@ -12,3 +12,4 @@ Cambios directos pueden causar inconsistencias o errores
 La superclase es la clase base; la subclase hereda de ella
 7)¿Para qué se usa el modificador final en una clase o método?
 Indica que la clase no puede heredarse o que el método no puede sobrescribirse
+8)¿Para qué se usa el modificador final en una clase o método?
