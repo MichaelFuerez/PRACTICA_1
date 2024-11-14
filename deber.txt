@@ -4,3 +4,4 @@ Es un método especial que se llama al crear una instancia de una clase.
 Reutilización de código y mejora la organización
 3)¿Cual es la palabra clave para herencia en Java?
 extends
+4)¿Cómo se implementa en Java?
