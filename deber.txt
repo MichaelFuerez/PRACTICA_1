@@ -1,3 +1,4 @@
 1)¿Qué es un método constructor en Java?
 Es un método especial que se llama al crear una instancia de una clase.
 2)¿Ventajas de la herencia?
+Reutilización de código y mejora la organización
