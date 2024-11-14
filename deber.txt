@@ -9,4 +9,4 @@ Usando modificadores como private y métodos getter y setter
 5)¿Problemas sin encapsulamiento?
 Cambios directos pueden causar inconsistencias o errores
 6)¿Diferencia entre superclase y subclase?
-
+La superclase es la clase base; la subclase hereda de ella
