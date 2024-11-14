@@ -17,3 +17,4 @@ Accede a métodos y atributos de la superclase desde la subclase.
 9)¿Para qué sirve super en Java?
 Permite que el atributo o método sea accesible desde cualquier clase.
 10)¿Qué es el modificador de acceso public?
+Limita el acceso a un atributo o método solo dentro de su propia clase
