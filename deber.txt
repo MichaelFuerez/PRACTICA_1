@@ -10,3 +10,4 @@ Usando modificadores como private y métodos getter y setter
 Cambios directos pueden causar inconsistencias o errores
 6)¿Diferencia entre superclase y subclase?
 La superclase es la clase base; la subclase hereda de ella
+7)¿Para qué se usa el modificador final en una clase o método?
