@@ -14,3 +14,4 @@ La superclase es la clase base; la subclase hereda de ella
 Indica que la clase no puede heredarse o que el método no puede sobrescribirse
 8)¿Para qué se usa el modificador final en una clase o método?
 Accede a métodos y atributos de la superclase desde la subclase.
+9)¿Para qué sirve super en Java?
