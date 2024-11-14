@@ -5,3 +5,4 @@ Reutilización de código y mejora la organización
 3)¿Cual es la palabra clave para herencia en Java?
 extends
 4)¿Cómo se implementa en Java?
+Usando modificadores como private y métodos getter y setter
